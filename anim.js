@@ -92,48 +92,48 @@
   if (pick) {
     var GAMES = {
       wz: {
-        img: "https://hack-gaming.fr/unreal.webp", alt: "warzone hile",
+        img: "https://hile-gaming.com/unreal.webp", alt: "warzone hile",
         count: "3 paket mevcut",
         name: "Call of Duty: Black Ops 7 / Warzone",
         desc: "Aimbot, ESP, ranked spoofer ve triggerbot. Yayında %100 görünmez.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Warzone paketlerini gör →", href: "https://hack-gaming.fr/warzone-hile.html",
+        cta: "Warzone paketlerini gör →", href: "https://hile-gaming.com/warzone-hile.html",
         glow: "59,130,246"
       },
       arc: {
-        img: "https://hack-gaming.fr/arc-ghost.webp", alt: "arc rider hile pc",
+        img: "https://hile-gaming.com/arc-ghost.webp", alt: "arc rider hile pc",
         count: "3 paket mevcut",
         name: "ARC Raiders",
         desc: "Aimbot, oyuncu ve robot ESP, loot ve çıkış noktası ESP, triggerbot ve HWID spoofer.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "ARC Raiders paketlerini gör →", href: "https://hack-gaming.fr/arc-rider-hile.html",
+        cta: "ARC Raiders paketlerini gör →", href: "https://hile-gaming.com/arc-rider-hile.html",
         glow: "245,158,11"
       },
       fn: {
-        img: "https://hack-gaming.fr/fn-delta.webp", alt: "fortnite hile",
+        img: "https://hile-gaming.com/fn-delta.webp", alt: "fortnite hile",
         count: "2 paket mevcut",
         name: "Fortnite",
         desc: "Kişiye özel aimbot, oyuncu ESP, loot ve sandık ESP, HWID spoofer + cleaner.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Fortnite paketlerini gör →", href: "https://hack-gaming.fr/fortnite-hile.html",
+        cta: "Fortnite paketlerini gör →", href: "https://hile-gaming.com/fortnite-hile.html",
         glow: "139,92,246"
       },
       val: {
-        img: "https://hack-gaming.fr/valorant-maxim.webp", alt: "valorant hile pc",
+        img: "https://hile-gaming.com/valorant-maxim.webp", alt: "valorant hile pc",
         count: "1 paket mevcut",
         name: "Valorant",
         desc: "Aimbot, ESP, triggerbot ve HWID spoofer. Tespit edilemez ve %100 stream proof.",
         price: "389 €", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
-        cta: "Valorant paketini gör →", href: "https://hack-gaming.fr/valorant-hile.html",
+        cta: "Valorant paketini gör →", href: "https://hile-gaming.com/valorant-hile.html",
         glow: "255,70,85"
       },
       tk: {
-        img: "https://hack-gaming.fr/tarkov-reaper.webp", alt: "tarkov hile pc",
+        img: "https://hile-gaming.com/tarkov-reaper.webp", alt: "tarkov hile pc",
         count: "1 paket mevcut",
         name: "Escape from Tarkov",
         desc: "Aimbot, oyuncu ve scav ESP, loot ve çıkış noktası ESP, HWID spoofer. Kullanıma hazır.",
         price: "389 €", consoles: "🖥️ PC",
-        cta: "Tarkov paketini gör →", href: "https://hack-gaming.fr/tarkov-hile.html",
+        cta: "Tarkov paketini gör →", href: "https://hile-gaming.com/tarkov-hile.html",
         glow: "166,154,70"
       }
     };
